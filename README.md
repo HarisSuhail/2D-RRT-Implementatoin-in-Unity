@@ -5,6 +5,6 @@ One script randomly generates obstacles and places destination in the scene.
 
 The RRT script then runs the RRT algorithm. 
 
-Load the created scene in Unity 2017 to test.
+Load Assets/scene in Unity 2017 to test.
 
 Stepping through the algorithm can be controller through public booleans which will be visible in the inspector window under the RRT script.
