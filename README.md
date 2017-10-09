@@ -1,4 +1,4 @@
-# 2D-RRT-Implementatoin-in-Unity
+# 2D RRT Implementation in Unity
 2D rapidly exploring random tree implemented in Unity 
 
 One script randomly generates obstacles and places destination in the scene.
